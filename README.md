@@ -1,1 +1,1 @@
-# simple-blog
+# simple-post-blog
