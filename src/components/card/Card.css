@@ -1,0 +1,14 @@
+.img {
+    overflow: hidden;
+    max-height: 350px;
+}
+
+.card-img {
+    width: 80%;
+    transition: all .3s ease-out;
+}
+
+.card-img:hover {
+    transform: scale(1.2);
+    transition: all .3s ease-out;
+}
